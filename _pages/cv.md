@@ -11,30 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Engineering, University of Queensland, 2016
+* MRes in Computing,  Macquarie University, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2015.11 - 2016.2: Summer Research Student
+  * CSIRO, Data61
+  * Duties included: Text Classification
+  * Supervisor: [Dr. Stephen Wan](https://people.csiro.au/W/S/Stephen-Wan)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016.07 - 2017.07: Research Assistant
+  * University Of New South Wales
+  * Duties included: SRL, Parsing
+  * Supervisor: [Prof. Wei Wang](http://www.cse.unsw.edu.au/~weiw/)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Pytorch/Tensorflow
+* Ubuntu/Shell
 
 Publications
 ======
@@ -42,7 +37,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -56,4 +51,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
