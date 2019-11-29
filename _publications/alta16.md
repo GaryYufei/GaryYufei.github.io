@@ -1,5 +1,5 @@
 ---
-title: "Data61-csiro systems at the clpsych 2016 shared task"
+title: "The Role of Features and Context on Suicide Ideation Detection"
 collection: publications
 permalink: /publication/alta16
 excerpt: 'Suicide Ideation'
