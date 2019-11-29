@@ -3,7 +3,7 @@ title: "Data61-csiro systems at the clpsych 2016 shared task"
 collection: publications
 permalink: /publication/alta16
 excerpt: 'Suicide Ideation'
-date: 2016-12
+date: 2016-12-01
 venue: 'Proceedings of the Australasian Language Technology Association Workshop 2016'
 paperurl: 'https://www.aclweb.org/anthology/U16-1010/'
 authors: '<strong>Yufei Wang</strong>, Stephen Wan, Cécile Paris'
