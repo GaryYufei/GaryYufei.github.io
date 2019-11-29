@@ -9,10 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF CV](files/yufei_cv.pdf)
+
 Education
 ======
-* B.S. in Engineering, University of Queensland, 2016
-* MRes in Computing,  Macquarie University, 2019
+* B.S. in Engineering, University of Queensland, 2014.2 - 2016.7
+* MRes in Computing,  Macquarie University, 2019.1 - 2019.12
+* PhD in Computing,  Macquarie University, 2020.1 - ?
 
 Work experience
 ======
